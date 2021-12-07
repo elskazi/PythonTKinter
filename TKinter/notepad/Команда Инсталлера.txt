@@ -1,0 +1,3 @@
+pyinstaller -F -w -i "C:\PythonTrinter\TKinter\notepad\ico.ico" notepad.py
+
+pyinstaller -F -w -i "C:\PythonTrinter\TKinter\Weather\ico.ico" Weather.py

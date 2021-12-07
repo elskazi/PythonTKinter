@@ -1,0 +1,15 @@
+import os
+print(os.name)
+print(os.environ)
+print(os.getlogin() )
+print(os.getpid())
+print(os.getcwd())
+print(os.listdir(path="."))
+print(os.path.split("C:\PythonTrinter\oname"))
+print(os.path.basename("C:\PythonTrinter\oname"))
+print(os.path.dirname("C:\PythonTrinter\oname"))
+print(os.name)
+print(os.name)
+print(os.name)
+print(os.name)
+
