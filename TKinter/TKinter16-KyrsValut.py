@@ -6,7 +6,7 @@ from tkinter import messagebox
 
 root = Tk()
 
-
+#нихера ни сделано
 root.mainloop()
 
 
